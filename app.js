@@ -114,7 +114,7 @@ searchform.addEventListener("submit", async (e)=>{
                  
                   </tr>
                 </tbody>`;
-    },10 );
+    },1000);
    
    }catch(e) {
         tabledata.innerHTML = `  <tr>
